@@ -33,11 +33,15 @@ Git - это программа
 
     git commit -am "message"
 
-git diff
+Для вычисления разницы между коммитами, нужно ввести команду:
 
-git diff <hash1> <hash2>
+    git diff
 
-git cheacout <hash>
+Для вычисления разницы между двумя разными коммитами, нужно ввести команду:
+
+    git diff <hash1> <hash2>
+
+git checkout <hash>
 
 git log
 
