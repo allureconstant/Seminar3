@@ -41,7 +41,9 @@ Git - это программа
 
     git diff <hash1> <hash2>
 
-git checkout <hash>
+Для того, чтобы перемещаться между ветками, созданными командой git branch, нужно ввести команду:
+
+    git checkout <hash>
 
 git log
 
