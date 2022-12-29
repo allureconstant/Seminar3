@@ -82,6 +82,9 @@ Git - это программа
 
     git checkout "branchname"
 
+### Удаление ветки
+Чтобы удалить ветку, нужно ввести команду:
+
     git branch -d  "branchname"
 
     git merge "branchname"
