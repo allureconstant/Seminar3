@@ -92,6 +92,9 @@ Git - это программа
 
     git merge "branchname"
 
+### Отображение логов
+Чтобы отобразить полный граф коммитов, нужно ввести команду:    
+
     git log --graph
 
     git log --all --oneline --graph
