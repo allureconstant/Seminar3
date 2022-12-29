@@ -1,7 +1,6 @@
 # Иструкция по работе с Git
 
-![Git][git.jpg]
-
+![Эмблема гита](git.jpg)
 
 Git - это программа
 
@@ -82,5 +81,18 @@ Git - это программа
 Чтобы переключиться на другую ветку, нужно ввести команду:
 
     git checkout "branchname"
+
+    git branch -d  "branchname"
+
+    git merge "branchname"
+
+    git log --graph
+
+    git log --all --oneline --graph
+
+    Конфликт слияния и его разрешение
+    
+
+
 
     
